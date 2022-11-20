@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bluesnuffvideo.github.io</id>
+    <title>BlueSnuffVideo</title>
+    <updated>2022-11-20T20:43:56.560Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bluesnuffvideo.github.io"/>
+    <link rel="self" href="https://bluesnuffvideo.github.io/atom.xml"/>
+    <subtitle>&lt;p&gt;&quot;Beautiful Like an Impure Insurrection.&quot;  
+&lt;p&gt;“像一场肮脏的暴动般美丽。”</subtitle>
+    <logo>https://bluesnuffvideo.github.io/images/avatar.png</logo>
+    <icon>https://bluesnuffvideo.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, BlueSnuffVideo</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://bluesnuffvideo.github.io/post/hello-gridea/</id>
+        <link href="https://bluesnuffvideo.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
