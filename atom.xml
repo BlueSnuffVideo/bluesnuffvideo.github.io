@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bluesnuffvideo.github.io/</id>
+    <title>BlueSnuffVideo</title>
+    <updated>2025-11-09T12:30:16.048Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bluesnuffvideo.github.io/"/>
+    <link rel="self" href="https://bluesnuffvideo.github.io/atom.xml"/>
+    <subtitle>&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=298 height=52 src=&quot;//music.163.com/outchain/player?type=2&amp;id=26260342&amp;auto=0&amp;height=32&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&quot;Beautiful Like an Impure Insurrection.&quot;  
+&lt;p&gt;“像一场肮脏的暴动般美丽。”</subtitle>
+    <logo>https://bluesnuffvideo.github.io/images/avatar.png</logo>
+    <icon>https://bluesnuffvideo.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, BlueSnuffVideo</rights>
+    <entry>
+        <title type="html"><![CDATA[【Playlist】一觉醒来再睡一觉|JAZZ特辑|卷的音樂夜電波VOL.2]]></title>
+        <id>https://bluesnuffvideo.github.io/post/playlist-yi-jue-xing-lai-zai-shui-yi-jue-orjazz-te-ji-orjuan-de-yin-le-ye-dian-bo-vol2/</id>
+        <link href="https://bluesnuffvideo.github.io/post/playlist-yi-jue-xing-lai-zai-shui-yi-jue-orjazz-te-ji-orjuan-de-yin-le-ye-dian-bo-vol2/">
+        </link>
+        <updated>2024-01-04T15:44:22.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【COCTRPG】我把碰掉的叉子捡了起来]]></title>
+        <id>https://bluesnuffvideo.github.io/post/coctrpg-15/</id>
+        <link href="https://bluesnuffvideo.github.io/post/coctrpg-15/">
+        </link>
+        <updated>2023-01-05T17:11:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【COC TRPG】在我把耳朵对半切开后]]></title>
+        <id>https://bluesnuffvideo.github.io/post/coctrpg-14/</id>
+        <link href="https://bluesnuffvideo.github.io/post/coctrpg-14/">
+        </link>
+        <updated>2023-01-05T17:07:15.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【DRB/幻帝】しかし、アンテナは錆びています]]></title>
+        <id>https://bluesnuffvideo.github.io/post/iron-rust/</id>
+        <link href="https://bluesnuffvideo.github.io/post/iron-rust/">
+        </link>
+        <updated>2023-01-05T17:02:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【夏洛克:未叙之章/去年冬天,与你分手|狮润衍生】人間みたいね|誰が僕を救ってくれるの?]]></title>
+        <id>https://bluesnuffvideo.github.io/post/humanlikes/</id>
+        <link href="https://bluesnuffvideo.github.io/post/humanlikes/">
+        </link>
+        <updated>2023-01-05T16:46:10.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Playlist】用发烧大脑热红酒|JAZZ特辑|卷的音樂夜電波VOL.1]]></title>
+        <id>https://bluesnuffvideo.github.io/post/playlist-vol1/</id>
+        <link href="https://bluesnuffvideo.github.io/post/playlist-vol1/">
+        </link>
+        <updated>2022-12-20T20:39:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【夏洛克:未叙之章|狮润】サルバドール|あなたに屈した私は誰です]]></title>
+        <id>https://bluesnuffvideo.github.io/post/Salvador/</id>
+        <link href="https://bluesnuffvideo.github.io/post/Salvador/">
+        </link>
+        <updated>2022-12-13T17:06:46.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MCYT】Broken Komoidia in Three Acts]]></title>
+        <id>https://bluesnuffvideo.github.io/post/broken-komoidia-in-three-acts/</id>
+        <link href="https://bluesnuffvideo.github.io/post/broken-komoidia-in-three-acts/">
+        </link>
+        <updated>2022-12-07T23:54:25.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【OC】Addio,Sant'Agata]]></title>
+        <id>https://bluesnuffvideo.github.io/post/addiosantagata/</id>
+        <link href="https://bluesnuffvideo.github.io/post/addiosantagata/">
+        </link>
+        <updated>2022-12-07T23:50:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【COCTRPG】碎玻璃鸟乘风而上]]></title>
+        <id>https://bluesnuffvideo.github.io/post/glass-bird/</id>
+        <link href="https://bluesnuffvideo.github.io/post/glass-bird/">
+        </link>
+        <updated>2022-12-07T23:46:11.000Z</updated>
+    </entry>
+</feed>
